@@ -19,4 +19,4 @@ Then you will have the excutable file
 ![](images/img1.png)
 
 # Performing actions
-![](images/img2.png)
+![](images/img2.png) 
