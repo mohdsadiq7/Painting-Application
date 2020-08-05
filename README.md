@@ -1,6 +1,5 @@
 # Painting-Application
-Implemented using Python library Tkinter
-Has basic features such as painting with different options as brush options, canvas clors, brush colors and etc.
+Implemented using Python library Tkinter with different features and functions as brush options, canvas clors, brush colors and etc.
 
 To use the project
 1. Clone the repo
